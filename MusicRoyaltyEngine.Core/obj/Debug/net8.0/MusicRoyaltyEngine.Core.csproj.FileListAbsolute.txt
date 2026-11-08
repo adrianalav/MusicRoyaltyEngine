@@ -1,0 +1,11 @@
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Core\bin\Debug\net8.0\MusicRoyaltyEngine.Core.deps.json
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Core\bin\Debug\net8.0\MusicRoyaltyEngine.Core.dll
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Core\bin\Debug\net8.0\MusicRoyaltyEngine.Core.pdb
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Core\obj\Debug\net8.0\MusicRoyaltyEngine.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Core\obj\Debug\net8.0\MusicRoyaltyEngine.Core.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Core\obj\Debug\net8.0\MusicRoyaltyEngine.Core.AssemblyInfo.cs
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Core\obj\Debug\net8.0\MusicRoyaltyEngine.Core.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Core\obj\Debug\net8.0\MusicRoyaltyEngine.Core.dll
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Core\obj\Debug\net8.0\refint\MusicRoyaltyEngine.Core.dll
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Core\obj\Debug\net8.0\MusicRoyaltyEngine.Core.pdb
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Core\obj\Debug\net8.0\ref\MusicRoyaltyEngine.Core.dll

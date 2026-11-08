@@ -1,0 +1,15 @@
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Infrastructure\bin\Debug\net8.0\MusicRoyaltyEngine.Infrastructure.deps.json
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Infrastructure\bin\Debug\net8.0\MusicRoyaltyEngine.Infrastructure.dll
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Infrastructure\bin\Debug\net8.0\MusicRoyaltyEngine.Infrastructure.pdb
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Infrastructure\bin\Debug\net8.0\MusicRoyaltyEngine.Core.dll
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Infrastructure\bin\Debug\net8.0\MusicRoyaltyEngine.Core.pdb
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Infrastructure\obj\Debug\net8.0\MusicRoyaltyEngine.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Infrastructure\obj\Debug\net8.0\MusicRoyaltyEngine.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Infrastructure\obj\Debug\net8.0\MusicRoyaltyEngine.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Infrastructure\obj\Debug\net8.0\MusicRoyaltyEngine.Infrastructure.AssemblyInfo.cs
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Infrastructure\obj\Debug\net8.0\MusicRoyaltyEngine.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Infrastructure\obj\Debug\net8.0\MusicRoy.8799AE54.Up2Date
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Infrastructure\obj\Debug\net8.0\MusicRoyaltyEngine.Infrastructure.dll
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Infrastructure\obj\Debug\net8.0\refint\MusicRoyaltyEngine.Infrastructure.dll
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Infrastructure\obj\Debug\net8.0\MusicRoyaltyEngine.Infrastructure.pdb
+C:\Users\adria\Desktop\Music Royalty Engine\MusicRoyaltyEngine.Infrastructure\obj\Debug\net8.0\ref\MusicRoyaltyEngine.Infrastructure.dll

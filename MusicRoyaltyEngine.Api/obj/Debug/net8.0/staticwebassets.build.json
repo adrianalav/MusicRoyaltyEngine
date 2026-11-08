@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IeWvtutmb7rBVqLfu2h6cUFZbzdoFz71stHTjosExWk=",
+  "Source": "MusicRoyaltyEngine.Api",
+  "BasePath": "_content/MusicRoyaltyEngine.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
